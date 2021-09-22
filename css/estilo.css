@@ -1,0 +1,25 @@
+body {
+    background-color: #222;
+    color: white;
+
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+/**
+    Personajes
+*/
+
+.bueno {
+    color: rgb(67, 189, 43)
+}
+
+.malo {
+    color:rgb(189, 56, 22)
+}
+
+.narrador {
+    color:rgb(100, 99, 94)
+}
